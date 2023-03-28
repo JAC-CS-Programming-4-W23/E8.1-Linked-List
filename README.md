@@ -6,7 +6,7 @@
 
 ## 🔨 Setup
 
-1. Clone the repo (or download the zip) for this exercise, which you can find [here](https://github.com/JAC-CS-Programming-4-W23/E8.3-Linked-List).
+1. Clone the repo (or download the zip) for this exercise, which you can find [here](https://github.com/JAC-CS-Programming-4-W23/E8.1-Linked-List).
 2. Start IntelliJ, go to `File -> Open...`, and select the cloned/downloaded folder.
 3. If at the top it says "Project JDK is not defined", click "Setup JDK" on the top right, and select the JDK version you have installed on your machine.
 
